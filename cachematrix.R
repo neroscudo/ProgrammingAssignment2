@@ -2,7 +2,7 @@
 ## is cached
 
 ## 
-## makeCacheMatrix creates an object that stores a matrix and its inverse. It creates a list of functions set and get the matrix and set get the value of the inverse
+## makeCacheMatrix creates an object that stores a matrix and its inverse. It creates a list of functions that set and get the matrix value and set get the value of the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
     i<-NULL
